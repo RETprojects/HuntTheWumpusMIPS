@@ -9,7 +9,7 @@
 #Hazards include being attacked by the Wumpus, getting carried to another cave by a "super bat", falling into a pit, shooting yourself with an arrow, or running out of arrows.
 
 .data
-#20 caves connected by tunnels; 1 has Wumpus, 2 have pits, 2 have bats
+#20 caves connected by tunnels
 #this 2D array stores the rooms adjacent to each room (e.g., room 1 leads to rooms 5, 8, and 2)
 rooms:	.word
 	5, 8, 2
