@@ -16,8 +16,7 @@ table containing the room numbers and what room numbers are connected to them ar
 
 Here is the cave network, as explained by the table of rooms (credit: Carlburch, https://commons.wikimedia.org/wiki/File:Wumpus-map.svg):
 
-![A map of the caves](https://commons.wikimedia.org/wiki/File:Wumpus-map.svg)
-<img src="https://commons.wikimedia.org/wiki/File:Wumpus-map.svg">
+![alt text](https://github.com/RETprojects/HuntTheWumpusMIPS/?raw=true)
 
 Then, for your first turn, you will see what room number you are in (you start in cave #1) and which 
 caves can be accessed directly from your room (5, 8, and 2). If there is a hazard in one or more of these 
