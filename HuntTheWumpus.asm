@@ -1,6 +1,6 @@
 #CMPEN 351 Final Project
 #Hunt the Wumpus
-#Remi Toutin (rmt5532)
+#RETprojects
 #created April 11, 2022
 
 #This is a version of the 1970s text-based adventure game Hunt the Wumpus.
