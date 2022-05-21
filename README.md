@@ -1,6 +1,6 @@
 # Hunt the Wumpus
-This MIPS assembly language project is a version of the 1973 text-based adventure game Hunt the 
-Wumpus, originally created by Gregory Yob. The premise of the game is that you are hunting a monster 
+This MIPS assembly language project is a version of the 1973 text-based adventure game *Hunt the 
+Wumpus*, originally created by Gregory Yob. The premise of the game is that you are hunting a monster 
 (the Wumpus) in a network of twenty caves (or “rooms”) using "crooked arrows" that can turn 
 corners in the network. There are multiple hazards in the caves, such as the Wumpus, two “super bats” 
 that can carry you to a random cave, and two bottomless pits. You win the game when the Wumpus is 
@@ -51,4 +51,4 @@ its path, the Wumpus is startled and moves to a random cave. If that cave is you
 (you are eaten). If your arrow count is now zero and you have not killed the Wumpus, you lose.
 
 After the turn completes, if you haven’t already won or lost the game, you will move on to the next turn, 
-which contains the same steps
+which contains the same steps as before.
