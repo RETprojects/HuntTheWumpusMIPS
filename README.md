@@ -1,4 +1,4 @@
-# Hunt the Wumpus 🏹⌨️
+# Hunt the Wumpus 🏹⌨️:monster:
 This MIPS assembly language project is a version of the 1973 text-based adventure game [*Hunt the 
 Wumpus*](https://en.wikipedia.org/wiki/Hunt_the_Wumpus), originally created by Gregory Yob. The premise of the game is that you are hunting a monster 
 (the Wumpus) in a network of twenty caves (or “rooms”) using "crooked arrows" that can turn 
